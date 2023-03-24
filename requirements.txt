@@ -6,3 +6,4 @@ Flask-SQLAlchemy==2.5.1
 psycopg2-binary==2.9.1
 SQLAlchemy==1.4.17
 pytest-flask
+gunicorn==20.0.4
